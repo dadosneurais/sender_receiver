@@ -3,7 +3,7 @@ import socket
 import time
 import sys
 
-server = "192.168.1.8"
+server = "192.168.1.2"
 port = 4444
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
